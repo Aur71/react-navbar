@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-navbar/static/css/main.a3650246.css",
+    "main.js": "/react-navbar/static/js/main.3099435f.js",
+    "index.html": "/react-navbar/index.html",
+    "main.a3650246.css.map": "/react-navbar/static/css/main.a3650246.css.map",
+    "main.3099435f.js.map": "/react-navbar/static/js/main.3099435f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3650246.css",
+    "static/js/main.3099435f.js"
+  ]
+}
